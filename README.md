@@ -363,6 +363,7 @@ If you have discovered a 🐜 or have a feature suggestion, feel free to create 
 
 ### License
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f710f67a473a4b5495ad77741c024d33)](https://app.codacy.com/app/info_162/webpack?utm_source=github.com&utm_medium=referral&utm_content=Gamingpc/webpack&utm_campaign=Badge_Grade_Settings)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fwebpack%2Fwebpack.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fwebpack%2Fwebpack?ref=badge_large)
 
 <h2 align="center">Core Team</h2>
